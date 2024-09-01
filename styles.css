@@ -1,0 +1,31 @@
+/* add your CSS here */
+.container {
+    width: 310px;
+    border: 2px solid black;
+    border-radius: 0 8px 8px 0;
+    padding: 8px;
+    box-shadow: 5px 10px 2px #c7c3c3;
+}
+img {
+    width: fixed 300px;
+    height: 200px;
+}
+.intro {
+    font-style: italic;
+}
+.description {
+    width: 95%;
+    padding: 4px 8px;
+    margin: 4px auto;
+    border: 1px solid gray;
+}
+ul {
+    padding: 0;
+}
+.facts {
+    list-style-type: none;
+    line-height: 1.2em;
+}
+span {
+    font-weight: bold;
+}
